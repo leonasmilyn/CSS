@@ -1,0 +1,13 @@
+.center {
+    position: relative;
+    margin: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+#center {
+    background-color: white;
+    color: black;
+    position: absolute;
+    margin: 100px;
+}
